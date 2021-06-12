@@ -1,0 +1,14 @@
+body{
+    background-color:rgb(14, 12, 93);
+    color: aliceblue;
+}
+
+#camera,#result{
+    border: dashed;
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-top: 5%;
+}
+footer{
+    margin-top: 2%;
+}
