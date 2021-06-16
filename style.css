@@ -1,5 +1,6 @@
 body{
-    background-color:rgb(14, 12, 93);
+    background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73aa, #006494);
+
     color: aliceblue;
 }
 
@@ -11,4 +12,8 @@ body{
 }
 footer{
     margin-top: 2%;
+}
+hr{
+    margin-left: 10%;
+    margin-right: 10%;
 }
